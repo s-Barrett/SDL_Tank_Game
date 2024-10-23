@@ -1,0 +1,60 @@
+﻿  Entity.cpp
+  Game.cpp
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(6,145): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(52,27): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(75,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(76,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(83,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(84,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(100,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(101,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(126,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(132,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(140,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(146,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(175,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Entity.cpp(176,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Game.cpp(55,41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Game.cpp(63,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Game.cpp(63,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Game.cpp(79,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Game.cpp(79,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  main.cpp
+  Menu.cpp
+  Player.cpp
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(92,23): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(94,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(107,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(108,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(115,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(116,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(174,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(178,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(184,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Player.cpp(188,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Projectile.cpp
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(53,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(54,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(74,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(75,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(83,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(85,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(89,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(91,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(97,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(99,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(103,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\Projectile.cpp(105,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  RenderWindow.cpp
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(45,5): warning C4551: function call missing argument list
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(98,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(99,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(106,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(122,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(123,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(131,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(145,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sambr\Desktop\SDL_TankGame\SDL_Project__Template\RenderWindow.cpp(146,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SDL_Project__Template.vcxproj -> C:\Users\sambr\Desktop\SDL_TankGame\Debug\SDL_Project__Template.exe

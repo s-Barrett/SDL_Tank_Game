@@ -2,6 +2,9 @@
 
 This is a 2D top-down tank game built using SDL for a unit called **Object Oriented Game Programming 22/23**
 
+## Project Status
+- Status: **Completed ✅**
+
 ## Features
 
 - **Player Controls**: Control a tank with movement and shooting capabilities.
